@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sathishkumar-c-2002
 - 👀 I’m interested Python Programming, Web Development, Data Science, and Machine Learning.
-- 🌱 I’m currently learning Python (NumPy, Pandas, Matplotlib, Scikit-learn) and React (for web application)
+- 🌱 I’m currently learning Python (NumPy, Pandas, Matplotlib, Scikit-learn) and React, Flask (for web application)
 - 💞️ I’m looking to collaborate on Web development, Data analysis and visualization, AI/ML applications
 - 📫 How to reach me
 - Email: sathishkumarc2002@gmail.com
