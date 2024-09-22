@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sathishkumar-c-2002
+- 👋 Hi, I’m C.Sathishkumar
 - 👀 I’m interested Python Programming, Web Development, Data Science, and Machine Learning.
 - 🌱 I’m currently learning **Python** *(NumPy, Pandas, Matplotlib, Scikit-learn)* and **Django** *(for web application)*
 - 💞️ I’m looking to collaborate on **Web development**, Data analysis and visualization, AI/ML applications
