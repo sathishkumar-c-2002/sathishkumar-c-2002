@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Python** *(NumPy,Matplotlib)* and **Django** *(for web application)*
 - 💞️ I’m looking to collaborate on **Web development**, Data analysis and visualization, AI/ML applications
 - 📫 How to reach me
-- Email: sathishkumarc2002@gmail.com
+- Email: csathishkumar2002@gmail.com
 - LinkedIn: www.linkedin.com/in/csathishkumar2002
 - GitHub: https://github.com/sathishkumar-c-2002
 - Geeksforgeeks: https://www.geeksforgeeks.org/user/csathishkhkbl/
