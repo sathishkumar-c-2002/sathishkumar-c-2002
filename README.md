@@ -10,4 +10,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Python enthusiast leveraging Data Science and Machine Learning superpowers to build innovative **web applications with Django**, driven by a passion for coding and data-driven decision-making.
 
-<img src="https://commons.wikimedia.org/wiki/File:Python_logo_01.svg">
+<img src="https://commons.wikimedia.org/wiki/File:Python_logo_01.svg"/>
