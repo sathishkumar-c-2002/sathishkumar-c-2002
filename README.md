@@ -11,5 +11,5 @@
 - ⚡ Fun fact: I'm a Python enthusiast leveraging Data Science and Machine Learning superpowers to build innovative **web applications with Django**, driven by a passion for coding and data-driven decision-making.
 
 <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" alt="Logo" width="100"/>
-<img src="https://goldeneagle.ai/static/images/technology/django.png" alt="Logo" width="100"/>
+<img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" alt="Logo" width="100"/>
 
