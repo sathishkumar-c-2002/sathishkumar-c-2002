@@ -12,6 +12,6 @@
 
 <div style="display: flex; justify-content: space-between;">
 <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" alt="Python-Django Logo" width="100">
-<img src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-HD-Quality.png" alt="MySQL Logo" width="150">
+<img src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-Free-File-Download.png" alt="MySQL Logo" width="150">
 </div>
 
