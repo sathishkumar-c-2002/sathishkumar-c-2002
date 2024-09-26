@@ -9,3 +9,5 @@
 - Geeksforgeeks: https://www.geeksforgeeks.org/user/csathishkhkbl/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Python enthusiast leveraging Data Science and Machine Learning superpowers to build innovative **web applications with Django**, driven by a passion for coding and data-driven decision-making.
+
+- ![Logo]([https://your-image-url.com/logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython_logo_01.svg&psig=AOvVaw2uLp9p0IqXRBhcaOYCuVPP&ust=1727398461645000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjHr-uy34gDFQAAAAAdAAAAABAE))
