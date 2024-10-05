@@ -20,7 +20,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:475/1*yludgK8sb_ZzGAffyKk3AQ.png" alt="REST-API " width="200">
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://learnloner.com/wp-content/uploads/2024/02/1661493497844.png" alt="REST-API " width="90">
+  <img src="https://learnloner.com/wp-content/uploads/2024/02/1661493497844.png" alt="REST-API " width="100">
 </div>
 
 
