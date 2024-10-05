@@ -18,7 +18,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS" width="80">
   <img src="https://epss.ucla.edu/static/bootstrap-5.2.0/site/static/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap " width="110">
   <img src="https://miro.medium.com/v2/resize:fit:475/1*yludgK8sb_ZzGAffyKk3AQ.png" alt="REST-API " width="200">
-  <img src="https://learnloner.com/wp-content/uploads/2024/02/1661493497844.png" alt="REST-API " width="100">
+  <img src="https://learnloner.com/wp-content/uploads/2024/02/1661493497844.png" alt="REST-API " width="80">
 </div>
 
 
