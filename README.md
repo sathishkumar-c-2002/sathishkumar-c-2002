@@ -11,6 +11,7 @@
 - ⚡ Fun fact: I'm a Python enthusiast leveraging Web Development superpowers to build innovative **web applications with Django**, driven by a passion for coding and data-driven decision-making.
 
 <div style="display: flex; justify-content: space-between;">
+    <img src="https://desk.zoho.com/portal/api/kbCategory/4000000217879/logo/327583000026924010?orgId=4241905" alt="Catalyst Logo" width="100">
   <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" alt="Python-Django Logo" width="100">
   <img src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-Free-File-Download.png" alt="MySQL Logo" width="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="100">
