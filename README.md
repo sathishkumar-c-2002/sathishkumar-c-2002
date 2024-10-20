@@ -10,21 +10,88 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Python enthusiast leveraging Web Development superpowers to build innovative **web applications with Django**, driven by a passion for coding and data-driven decision-making.
 
+<style>
+  body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa; /* Light background for contrast */
+    color: #333; /* Dark text color for readability */
+  }
+  h2 {
+    font-size: 20px; /* Normal size for title */
+    color: #2c3e50; /* Dark color for title */
+    margin-bottom: 20px;
+  }
+  .skill-container {
+    margin: 10px auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px; /* Reduced gap */
+    justify-content: flex-start; /* Align items to the left */
+    max-width: 1000px; /* Adjusted to fit ten boxes */
+  }
+  .skill-box {
+    padding: 5px 10px; /* Adjusted padding */
+    border-radius: 4px; /* Lower border radius */
+    display: inline-block; /* Allow width to adjust */
+    text-align: center; /* Center the text */
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s, box-shadow 0.2s;
+    font-weight: bold; /* Make text bold */
+    font-size: 12px; /* Smaller text */
+    white-space: nowrap; /* Prevent text wrapping */
+  }
+</style>
 
-<div style="display: flex; justify-content: space-between;">
-<!--   <img src="https://desk.zoho.com/portal/api/kbCategory/4000000217879/logo/327583000026924010?orgId=4241905" alt="Catalyst Logo" width="100"> -->
-  <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" alt="Python-Django Logo" width="100">
-  <img src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-Free-File-Download.png" alt="MySQL Logo" width="100">
-<!--   <img src="https://help.zoho.com/portal/api/departments/4000609360326/logo?portalId=edbsn3b70dd1c6df566ee5b86f9a10b39ac781e714edb9c3a38a191adf0c5b716166e" alt="Deluge" width="100">
-  <img src="https://desk.zoho.com/portal/api/kbCategory/4000000217879/logo/327583000026924010?orgId=4241905" alt="Creator Logo" width="100"> -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="100">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-logo-icon-download-in-svg-png-gif-file-formats--css-programming-langugae-language-pack-logos-icons-1175237.png" alt="CSS" width="83">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS" width="80">
-  <img src="https://epss.ucla.edu/static/bootstrap-5.2.0/site/static/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap " width="110">
-  <img src="https://miro.medium.com/v2/resize:fit:475/1*yludgK8sb_ZzGAffyKk3AQ.png" alt="REST-API " width="200">
+<h2>My Skills</h2>
+
+<div>Programming Languages</div>
+<div class="skill-container">
+  <div class="skill-box" style="background-color: #3A6EA5; color: white;">Python</div> <!-- Futuristic Blue -->
+  <div class="skill-box" style="background-color: #FFCC00; color: black;">JavaScript</div> <!-- Bright Yellow -->
 </div>
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://learnloner.com/wp-content/uploads/2024/02/1661493497844.png" alt="REST-API " width="100">
+
+<div>Web Technologies</div>
+<div class="skill-container">
+  <div class="skill-box" style="background-color: #C72C41; color: white;">HTML</div> <!-- Crimson Red -->
+  <div class="skill-box" style="background-color: #007BFF; color: white;">CSS</div> <!-- Vibrant Blue -->
+  <div class="skill-box" style="background-color: #6C63FF; color: white;">Django</div> <!-- Purple -->
+  <div class="skill-box" style="background-color: #FF6F61; color: white;">Bootstrap 5</div> <!-- Coral -->
+  <div class="skill-box" style="background-color: #28A745; color: white;">REST API</div> <!-- Green -->
+</div>
+
+<div>Version Control</div>
+<div class="skill-container">
+  <div class="skill-box" style="background-color: #FF4F4F; color: white;">Git</div> <!-- Bright Red -->
+  <div class="skill-box" style="background-color: #FF4F4F; color: white;">GitHub</div> <!-- Bright Red -->
+</div>
+
+<div>Operating Systems</div>
+<div class="skill-container">
+  <div class="skill-box" style="background-color: #007BFF; color: white;">Windows</div> <!-- Vibrant Blue -->
+  <div class="skill-box" style="background-color: #FFD700; color: black;">Linux</div> <!-- Gold -->
+</div>
+
+<div>Development Tools</div>
+<div class="skill-container">
+  <div class="skill-box" style="background-color: #5D8AA8; color: white;">Visual Studio Code</div> <!-- Steel Blue -->
+  <div class="skill-box" style="background-color: #E65C8D; color: white;">PyCharm</div> <!-- Pink -->
+  <div class="skill-box" style="background-color: #F24E1E; color: white;">Figma</div> <!-- Red -->
+</div>
+
+<div>Database Management</div>
+<div class="skill-container">
+  <div class="skill-box" style="background-color: #4B0082; color: white;">SQL</div> <!-- Indigo -->
+  <div class="skill-box" style="background-color: #4B0082; color: white;">MySQL</div> <!-- Indigo -->
+</div>
+
+<div>Data Analysis</div>
+<div class="skill-container">
+  <div class="skill-box" style="background-color: #00BFFF; color: white;">NumPy</div> <!-- Deep Sky Blue -->
+</div>
+
+<div>Data Formats</div>
+<div class="skill-container">
+  <div class="skill-box" style="background-color: #A8E0B1; color: black;">JSON</div> <!-- Light Green -->
 </div>
 
 
