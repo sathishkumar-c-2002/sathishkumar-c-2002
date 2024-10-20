@@ -10,57 +10,21 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Python enthusiast leveraging Web Development superpowers to build innovative **web applications with Django**, driven by a passion for coding and data-driven decision-making.
 
-<h2 style="font-size: 20px; color: #2c3e50; margin-bottom: 20px;">My Skills</h2>
 
-<div style="margin: 10px auto; display: flex; flex-direction: column;">
-    <div>Programming Languages</div>
-    <div style="margin: 10px auto; display: flex; flex-wrap: wrap; gap: 2px; justify-content: flex-start; max-width: 1000px;">
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #3A6EA5; color: white; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">Python</div>
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #FFCC00; color: black; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">JavaScript</div>
-    </div>
-
-    <div>Web Technologies</div>
-    <div style="margin: 10px auto; display: flex; flex-wrap: wrap; gap: 2px; justify-content: flex-start; max-width: 1000px;">
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #C72C41; color: white; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">HTML</div>
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #007BFF; color: white; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">CSS</div>
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #6C63FF; color: white; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">Django</div>
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #FF6F61; color: white; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">Bootstrap 5</div>
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #28A745; color: white; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">REST API</div>
-    </div>
-
-    <div>Version Control</div>
-    <div style="margin: 10px auto; display: flex; flex-wrap: wrap; gap: 2px; justify-content: flex-start; max-width: 1000px;">
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #FF4F4F; color: white; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">Git</div>
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #FF4F4F; color: white; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">GitHub</div>
-    </div>
-
-    <div>Operating Systems</div>
-    <div style="margin: 10px auto; display: flex; flex-wrap: wrap; gap: 2px; justify-content: flex-start; max-width: 1000px;">
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #007BFF; color: white; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">Windows</div>
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #FFD700; color: black; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">Linux</div>
-    </div>
-
-    <div>Development Tools</div>
-    <div style="margin: 10px auto; display: flex; flex-wrap: wrap; gap: 2px; justify-content: flex-start; max-width: 1000px;">
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #5D8AA8; color: white; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">Visual Studio Code</div>
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #E65C8D; color: white; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">PyCharm</div>
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #F24E1E; color: white; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">Figma</div>
-    </div>
-
-    <div>Database Management</div>
-    <div style="margin: 10px auto; display: flex; flex-wrap: wrap; gap: 2px; justify-content: flex-start; max-width: 1000px;">
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #4B0082; color: white; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">SQL</div>
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #4B0082; color: white; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">MySQL</div>
-    </div>
-
-    <div>Data Analysis</div>
-    <div style="margin: 10px auto; display: flex; flex-wrap: wrap; gap: 2px; justify-content: flex-start; max-width: 1000px;">
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #00BFFF; color: white; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">NumPy</div>
-    </div>
-
-    <div>Data Formats</div>
-    <div style="margin: 10px auto; display: flex; flex-wrap: wrap; gap: 2px; justify-content: flex-start; max-width: 1000px;">
-        <div style="padding: 5px 10px; border-radius: 4px; display: inline-block; text-align: center; background-color: #A8E0B1; color: black; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); font-weight: bold; font-size: 12px; white-space: nowrap;">JSON</div>
-    </div>
+<div style="display: flex; justify-content: space-between;">
+<!--   <img src="https://desk.zoho.com/portal/api/kbCategory/4000000217879/logo/327583000026924010?orgId=4241905" alt="Catalyst Logo" width="100"> -->
+  <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" alt="Python-Django Logo" width="100">
+  <img src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-Free-File-Download.png" alt="MySQL Logo" width="100">
+<!--   <img src="https://help.zoho.com/portal/api/departments/4000609360326/logo?portalId=edbsn3b70dd1c6df566ee5b86f9a10b39ac781e714edb9c3a38a191adf0c5b716166e" alt="Deluge" width="100">
+  <img src="https://desk.zoho.com/portal/api/kbCategory/4000000217879/logo/327583000026924010?orgId=4241905" alt="Creator Logo" width="100"> -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="100">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-logo-icon-download-in-svg-png-gif-file-formats--css-programming-langugae-language-pack-logos-icons-1175237.png" alt="CSS" width="83">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS" width="80">
+  <img src="https://epss.ucla.edu/static/bootstrap-5.2.0/site/static/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap " width="110">
+  <img src="https://miro.medium.com/v2/resize:fit:475/1*yludgK8sb_ZzGAffyKk3AQ.png" alt="REST-API " width="200">
 </div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://learnloner.com/wp-content/uploads/2024/02/1661493497844.png" alt="REST-API " width="100">
+</div>
+
 
