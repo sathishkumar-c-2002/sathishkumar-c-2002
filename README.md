@@ -10,8 +10,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Python enthusiast leveraging Web Development superpowers to build innovative **web applications with Django**, driven by a passion for coding and data-driven decision-making.
 
-<body style="font-family: 'Poppins', sans-serif; background-color: #f8f9fa; color: #333;">
-
 <h2 style="font-size: 20px; color: #2c3e50; margin-bottom: 20px;">My Skills</h2>
 
 <div style="margin: 10px auto; display: flex; flex-direction: column;">
