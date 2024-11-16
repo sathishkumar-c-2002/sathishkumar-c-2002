@@ -10,6 +10,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Python enthusiast leveraging Web Development superpowers to build innovative **web applications with Django**, driven by a passion for coding and data-driven decision-making.
 
+<br>
 <div style="display: flex; justify-content: space-between;">
 <!--   <img src="https://desk.zoho.com/portal/api/kbCategory/4000000217879/logo/327583000026924010?orgId=4241905" alt="Catalyst Logo" width="100"> -->
   <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" alt="Python-Django Logo" width="100">
